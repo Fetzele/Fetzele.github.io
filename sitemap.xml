@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://test.fessele.eu/</loc>
+    <lastmod>2020-04-14T00:34:56+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://test.fessele.eu/posts/my-first-post/</loc>
     <lastmod>2020-04-14T00:34:56+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://test.fessele.eu/posts/</loc>
-    <lastmod>2020-04-14T00:34:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://test.fessele.eu/</loc>
     <lastmod>2020-04-14T00:34:56+02:00</lastmod>
   </url>
   
