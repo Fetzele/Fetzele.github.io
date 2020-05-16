@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Estelle &amp; Johannes</title>
-    <link>https://test.fessele.eu/</link>
+    <link>https://hochzeit.fessele.eu/</link>
     <description>Recent content on Estelle &amp; Johannes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     
-	<atom:link href="https://test.fessele.eu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hochzeit.fessele.eu/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
