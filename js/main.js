@@ -65,20 +65,20 @@
 	  	});
 	}
 
-	// uncomment the following again if the menu in mobile shall be visible again
-	// var offcanvasMenu = function() {
-	// 	$('body').prepend('<div id="fh5co-offcanvas" />');
-	// 	$('body').prepend('<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>');
+	var offcanvasMenu = function() {
+		$('body').prepend('<div id="fh5co-offcanvas" />');
+		// uncomment following line to add mobile menu
+		// $('body').prepend('<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>');
 
-	// 	$('.fh5co-main-nav .fh5co-menu-1 a, .fh5co-main-nav .fh5co-menu-2 a').each(function(){
+		$('.fh5co-main-nav .fh5co-menu-1 a, .fh5co-main-nav .fh5co-menu-2 a').each(function(){
 
-	// 		var $this = $(this);
+			var $this = $(this);
 
-	// 		$('#fh5co-offcanvas').append($this.clone());
+			$('#fh5co-offcanvas').append($this.clone());
 
-	// 	});
-	// 	// $('#fh5co-offcanvas').append
-	// };
+		});
+		// $('#fh5co-offcanvas').append
+	};
 
 	var mainMenuSticky = function() {
 		
